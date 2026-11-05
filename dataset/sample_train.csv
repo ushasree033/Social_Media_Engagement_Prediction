@@ -1,0 +1,501 @@
+id,platform,page_id,date_posted,recorded_at,content_type,caption,comments,likes
+1,facebook,page_B,2025-07-13,2025-07-20,link,Sample social media caption with details with details with details with details with details with details with details with details ,0,140
+2,instagram,page_C,2025-04-06,2025-04-09,text,Sample social media caption ,24,280
+3,linkedin,page_A,2025-03-25,2025-03-28,text,Sample social media caption with details with details with details with details ,0,1
+4,facebook,page_A,2025-04-28,2025-05-06,link,Sample social media caption with details with details with details with details ,1,115
+5,instagram,page_C,2025-08-07,2025-08-11,image,Sample social media caption with details with details with details with details with details with details with details with details ,53,551
+6,linkedin,page_D,2025-03-30,2025-04-01,link,Sample social media caption with details ,2,287
+7,facebook,page_A,2025-11-30,2025-12-01,link,Sample social media caption with details with details with details with details ,45,375
+8,facebook,page_C,2025-06-25,2025-06-28,text,Sample social media caption with details ,16,467
+9,instagram,page_A,2025-11-12,2025-11-21,text,Sample social media caption with details with details with details with details with details with details with details ,39,622
+10,instagram,page_C,2025-09-07,2025-09-12,text,Sample social media caption with details with details with details with details with details with details ,79,639
+11,instagram,page_D,2025-05-02,2025-05-11,video,Sample social media caption with details with details with details with details with details ,69,654
+12,linkedin,page_D,2025-03-25,2025-03-27,link,Sample social media caption with details with details with details with details ,20,236
+13,facebook,page_C,2025-09-29,2025-10-03,image,Sample social media caption with details ,27,519
+14,linkedin,page_C,2025-05-01,2025-05-03,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,25,417
+15,instagram,page_D,2025-04-01,2025-04-05,text,Sample social media caption with details with details with details with details with details with details ,50,615
+16,instagram,page_C,2025-12-06,2025-12-12,link,Sample social media caption with details with details with details ,46,579
+17,facebook,page_B,2025-06-26,2025-07-04,video,Sample social media caption with details with details with details with details ,41,532
+18,instagram,page_D,2025-01-18,2025-01-22,video,Sample social media caption with details with details with details with details with details with details with details ,52,667
+19,linkedin,page_C,2025-06-30,2025-07-07,image,Sample social media caption with details with details with details with details with details with details with details ,11,188
+20,facebook,page_D,2025-06-18,2025-06-24,image,Sample social media caption with details with details with details with details ,18,496
+21,facebook,page_C,2025-11-12,2025-11-15,image,Sample social media caption with details with details with details ,32,497
+22,instagram,page_D,2025-09-17,2025-09-26,image,Sample social media caption with details with details with details with details with details with details ,59,575
+23,linkedin,page_A,2025-03-11,2025-03-15,link,Sample social media caption with details with details with details with details with details with details ,0,223
+24,linkedin,page_A,2025-02-24,2025-02-26,link,Sample social media caption with details with details with details with details with details with details ,19,278
+25,facebook,page_A,2025-08-09,2025-08-18,link,Sample social media caption with details ,19,392
+26,instagram,page_C,2025-01-18,2025-01-27,image,Sample social media caption with details with details with details with details ,67,824
+27,instagram,page_C,2025-04-27,2025-04-28,image,Sample social media caption with details with details with details with details with details with details ,59,816
+28,instagram,page_A,2025-02-20,2025-03-01,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,79,720
+29,instagram,page_A,2025-01-08,2025-01-17,text,Sample social media caption with details with details with details with details with details ,65,729
+30,facebook,page_D,2025-12-02,2025-12-10,video,Sample social media caption with details with details with details ,22,521
+31,facebook,page_D,2025-02-02,2025-02-05,video,Sample social media caption with details with details with details with details with details ,69,747
+32,linkedin,page_C,2025-01-04,2025-01-10,image,Sample social media caption with details with details ,7,244
+33,instagram,page_B,2025-12-07,2025-12-12,text,Sample social media caption with details ,23,402
+34,instagram,page_B,2025-03-10,2025-03-16,video,Sample social media caption with details with details with details with details with details with details ,50,576
+35,instagram,page_A,2025-10-26,2025-11-01,image,Sample social media caption with details with details with details with details with details with details with details with details with details ,49,706
+36,instagram,page_A,2025-01-12,2025-01-18,text,Sample social media caption with details with details with details with details with details with details with details with details ,44,395
+37,instagram,page_D,2025-02-26,2025-03-03,link,Sample social media caption with details with details with details with details with details ,42,673
+38,instagram,page_B,2025-02-10,2025-02-17,image,Sample social media caption ,50,744
+39,instagram,page_C,2025-09-15,2025-09-20,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,50,751
+40,facebook,page_C,2025-08-15,2025-08-16,link,Sample social media caption with details with details with details with details ,25,420
+41,instagram,page_B,2025-06-23,2025-06-24,text,Sample social media caption with details with details with details ,48,399
+42,linkedin,page_A,2025-03-30,2025-04-08,link,Sample social media caption with details with details with details with details with details with details with details with details ,24,185
+43,facebook,page_C,2025-02-02,2025-02-11,video,Sample social media caption with details with details with details with details with details with details with details ,85,748
+44,instagram,page_A,2025-07-27,2025-08-02,video,Sample social media caption with details with details with details with details with details with details with details ,98,801
+45,linkedin,page_B,2025-03-26,2025-03-28,text,Sample social media caption with details with details with details ,11,342
+46,linkedin,page_D,2025-08-04,2025-08-12,image,Sample social media caption with details with details with details with details with details with details with details with details with details ,26,320
+47,instagram,page_C,2025-09-08,2025-09-10,image,Sample social media caption with details with details with details with details ,42,754
+48,instagram,page_D,2025-11-07,2025-11-11,text,Sample social media caption with details with details with details with details with details ,31,540
+49,facebook,page_A,2025-06-30,2025-07-03,text,Sample social media caption with details with details with details with details with details with details with details ,31,511
+50,instagram,page_A,2025-01-02,2025-01-03,image,Sample social media caption with details with details with details with details with details with details ,33,616
+51,instagram,page_B,2025-04-13,2025-04-21,text,Sample social media caption with details ,20,459
+52,instagram,page_B,2025-11-08,2025-11-13,video,Sample social media caption with details with details with details ,54,714
+53,facebook,page_A,2025-07-14,2025-07-17,text,Sample social media caption with details with details with details ,1,248
+54,facebook,page_D,2025-08-14,2025-08-19,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,56,549
+55,facebook,page_A,2025-06-17,2025-06-18,image,Sample social media caption with details with details with details with details with details with details with details ,34,608
+56,facebook,page_C,2025-03-01,2025-03-05,link,Sample social media caption with details with details with details ,77,440
+57,instagram,page_C,2025-11-24,2025-11-29,video,Sample social media caption with details with details with details with details with details with details with details ,72,988
+58,facebook,page_C,2025-10-10,2025-10-14,link,Sample social media caption with details with details with details with details with details with details with details ,49,608
+59,instagram,page_A,2025-12-30,2026-01-07,video,Sample social media caption with details with details with details with details ,36,699
+60,instagram,page_B,2025-11-09,2025-11-12,video,Sample social media caption with details with details with details with details ,88,790
+61,facebook,page_C,2025-04-17,2025-04-19,link,Sample social media caption with details with details with details with details with details with details with details with details ,47,386
+62,instagram,page_B,2025-04-03,2025-04-08,text,Sample social media caption with details with details with details with details with details ,47,536
+63,facebook,page_C,2025-04-01,2025-04-09,image,Sample social media caption with details ,8,359
+64,facebook,page_A,2025-12-02,2025-12-06,text,Sample social media caption with details with details with details with details with details with details with details ,51,605
+65,facebook,page_A,2025-07-23,2025-07-24,link,Sample social media caption with details with details with details with details with details with details ,19,451
+66,facebook,page_C,2025-06-15,2025-06-24,video,Sample social media caption with details with details with details with details with details ,68,588
+67,facebook,page_C,2025-12-20,2025-12-24,link,Sample social media caption with details with details with details with details with details with details with details ,58,575
+68,instagram,page_A,2025-08-09,2025-08-11,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,28,333
+69,instagram,page_D,2025-11-28,2025-12-04,video,Sample social media caption with details with details with details ,2,491
+70,instagram,page_A,2025-12-26,2025-12-29,image,Sample social media caption with details with details with details with details ,43,724
+71,instagram,page_D,2025-01-29,2025-02-07,text,Sample social media caption with details with details ,48,475
+72,instagram,page_C,2025-05-12,2025-05-15,image,Sample social media caption with details with details with details with details with details with details ,74,698
+73,linkedin,page_D,2025-09-25,2025-09-30,link,Sample social media caption with details with details with details with details ,17,16
+74,instagram,page_D,2025-10-24,2025-10-29,text,Sample social media caption with details with details with details ,15,492
+75,instagram,page_B,2025-02-24,2025-02-27,video,Sample social media caption with details with details with details with details with details with details with details ,87,1037
+76,instagram,page_D,2025-04-27,2025-05-02,image,Sample social media caption with details with details with details with details ,73,725
+77,instagram,page_A,2025-07-20,2025-07-21,text,Sample social media caption with details with details with details with details ,18,536
+78,facebook,page_B,2025-10-19,2025-10-25,image,Sample social media caption with details with details with details with details ,34,429
+79,facebook,page_A,2025-02-11,2025-02-18,video,Sample social media caption with details with details ,45,523
+80,facebook,page_B,2025-08-08,2025-08-17,link,Sample social media caption with details ,1,72
+81,facebook,page_D,2025-04-19,2025-04-22,link,Sample social media caption with details with details with details with details with details with details with details with details ,10,480
+82,instagram,page_B,2025-03-20,2025-03-23,link,Sample social media caption with details ,40,573
+83,linkedin,page_A,2025-07-08,2025-07-13,link,Sample social media caption with details with details with details ,0,1
+84,instagram,page_B,2025-06-01,2025-06-08,text,Sample social media caption with details with details with details with details with details with details ,35,472
+85,instagram,page_D,2025-08-21,2025-08-30,image,Sample social media caption with details ,26,439
+86,instagram,page_C,2025-04-26,2025-04-27,link,Sample social media caption with details with details with details with details with details with details ,29,454
+87,facebook,page_C,2025-10-28,2025-10-31,link,Sample social media caption with details with details with details with details with details with details with details ,34,439
+88,instagram,page_B,2025-01-29,2025-02-01,link,Sample social media caption with details with details with details with details with details with details ,32,321
+89,instagram,page_B,2025-11-11,2025-11-14,text,Sample social media caption with details with details with details ,40,562
+90,facebook,page_C,2025-01-11,2025-01-16,image,Sample social media caption ,33,499
+91,instagram,page_C,2025-09-26,2025-10-04,text,Sample social media caption with details with details with details with details with details with details with details with details ,46,560
+92,facebook,page_D,2025-05-07,2025-05-08,video,Sample social media caption with details with details with details ,0,284
+93,instagram,page_C,2025-05-20,2025-05-28,link,Sample social media caption with details with details with details with details with details with details with details with details ,45,476
+94,instagram,page_D,2025-01-07,2025-01-13,video,Sample social media caption with details with details ,68,858
+95,instagram,page_D,2025-09-14,2025-09-20,video,Sample social media caption with details ,30,370
+96,facebook,page_A,2025-03-02,2025-03-09,image,Sample social media caption with details with details with details with details with details with details with details ,54,499
+97,instagram,page_B,2025-08-29,2025-08-31,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,8,477
+98,instagram,page_B,2025-09-22,2025-09-29,link,Sample social media caption with details with details with details with details with details with details with details with details ,26,701
+99,instagram,page_A,2025-11-05,2025-11-08,image,Sample social media caption with details with details with details with details with details with details with details ,52,605
+100,linkedin,page_A,2025-09-16,2025-09-21,video,Sample social media caption with details with details ,33,417
+101,linkedin,page_D,2025-04-21,2025-04-28,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,46,552
+102,facebook,page_B,2025-09-27,2025-10-03,video,Sample social media caption with details with details with details with details with details with details ,62,862
+103,instagram,page_A,2025-10-29,2025-11-01,link,Sample social media caption with details ,46,461
+104,linkedin,page_B,2025-04-26,2025-04-30,image,Sample social media caption with details ,35,273
+105,facebook,page_B,2025-02-15,2025-02-20,video,Sample social media caption with details with details with details with details with details with details with details with details ,47,498
+106,facebook,page_A,2025-11-21,2025-11-22,image,Sample social media caption with details with details ,43,596
+107,instagram,page_A,2025-02-23,2025-03-02,image,Sample social media caption with details with details with details with details with details with details with details ,16,597
+108,instagram,page_D,2025-08-05,2025-08-06,link,Sample social media caption with details ,44,412
+109,instagram,page_D,2025-03-28,2025-04-02,link,Sample social media caption with details with details with details ,58,501
+110,linkedin,page_B,2025-02-15,2025-02-21,image,Sample social media caption with details with details with details ,15,67
+111,instagram,page_C,2025-10-11,2025-10-12,text,Sample social media caption with details with details with details ,27,512
+112,instagram,page_D,2025-02-22,2025-03-03,image,Sample social media caption with details with details with details with details with details with details ,73,789
+113,instagram,page_D,2025-09-02,2025-09-06,image,Sample social media caption with details with details with details with details with details with details with details with details with details ,72,750
+114,facebook,page_A,2025-09-10,2025-09-11,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,62,493
+115,instagram,page_D,2025-01-22,2025-01-28,image,Sample social media caption with details with details with details with details with details with details with details ,40,670
+116,linkedin,page_A,2025-03-05,2025-03-11,video,Sample social media caption with details with details ,32,449
+117,facebook,page_A,2025-10-17,2025-10-23,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,30,247
+118,facebook,page_B,2025-07-05,2025-07-12,text,Sample social media caption with details with details with details with details with details ,20,251
+119,instagram,page_C,2025-02-14,2025-02-19,text,Sample social media caption with details with details with details with details with details ,34,635
+120,facebook,page_A,2025-12-28,2026-01-05,video,Sample social media caption with details with details with details with details with details with details with details ,60,680
+121,facebook,page_B,2025-04-07,2025-04-11,image,Sample social media caption with details with details with details with details with details with details with details ,55,589
+122,facebook,page_B,2025-01-02,2025-01-07,image,Sample social media caption with details with details with details with details with details with details with details with details with details ,64,794
+123,instagram,page_B,2025-12-04,2025-12-06,video,Sample social media caption with details with details with details with details with details ,69,833
+124,instagram,page_D,2025-01-07,2025-01-13,image,Sample social media caption with details with details with details with details with details with details ,55,740
+125,instagram,page_B,2025-07-21,2025-07-24,link,Sample social media caption with details with details with details with details with details with details with details ,94,910
+126,instagram,page_A,2025-12-29,2026-01-05,link,Sample social media caption with details with details ,24,474
+127,instagram,page_A,2025-07-30,2025-08-07,link,Sample social media caption with details with details with details ,24,413
+128,instagram,page_A,2025-08-02,2025-08-10,text,Sample social media caption with details with details with details with details with details with details ,47,595
+129,instagram,page_A,2025-05-22,2025-05-31,text,Sample social media caption ,53,499
+130,facebook,page_C,2025-02-16,2025-02-18,text,Sample social media caption with details with details with details ,0,277
+131,instagram,page_B,2025-07-29,2025-07-31,video,Sample social media caption with details with details with details with details with details with details with details ,34,676
+132,linkedin,page_B,2025-11-24,2025-12-03,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,11,532
+133,facebook,page_D,2025-02-03,2025-02-07,link,Sample social media caption with details with details with details with details with details ,35,435
+134,instagram,page_C,2025-11-18,2025-11-19,link,Sample social media caption with details with details with details with details ,18,437
+135,facebook,page_A,2025-06-01,2025-06-04,text,Sample social media caption with details with details with details with details ,31,472
+136,instagram,page_B,2025-07-15,2025-07-23,image,Sample social media caption with details with details with details with details with details with details ,62,661
+137,linkedin,page_B,2025-03-02,2025-03-06,text,Sample social media caption with details with details with details with details with details ,2,149
+138,instagram,page_D,2025-08-15,2025-08-16,video,Sample social media caption ,63,747
+139,facebook,page_B,2025-03-08,2025-03-15,text,Sample social media caption with details with details with details with details with details ,13,224
+140,instagram,page_A,2025-04-10,2025-04-12,text,Sample social media caption with details with details with details with details ,53,547
+141,instagram,page_C,2025-09-21,2025-09-25,link,Sample social media caption with details with details with details with details with details with details with details ,71,807
+142,instagram,page_B,2025-01-19,2025-01-20,video,Sample social media caption with details with details with details with details with details with details with details with details ,60,883
+143,linkedin,page_A,2025-06-13,2025-06-19,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,15,228
+144,facebook,page_C,2025-08-06,2025-08-11,link,Sample social media caption with details with details with details with details with details with details ,43,350
+145,instagram,page_A,2025-02-18,2025-02-26,video,Sample social media caption with details with details with details ,61,689
+146,instagram,page_D,2025-04-18,2025-04-22,video,Sample social media caption with details with details with details with details ,36,722
+147,instagram,page_D,2025-05-06,2025-05-08,text,Sample social media caption with details with details ,43,421
+148,facebook,page_B,2025-08-31,2025-09-02,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,29,578
+149,instagram,page_C,2025-12-23,2025-12-25,text,Sample social media caption with details with details with details with details with details with details with details with details ,51,375
+150,instagram,page_C,2025-11-02,2025-11-07,link,Sample social media caption with details with details with details with details with details with details with details with details ,71,707
+151,linkedin,page_C,2025-03-11,2025-03-12,video,Sample social media caption with details with details with details ,31,337
+152,linkedin,page_A,2025-01-07,2025-01-11,text,Sample social media caption with details with details with details ,17,187
+153,instagram,page_B,2025-01-19,2025-01-27,video,Sample social media caption with details with details with details with details with details with details with details with details ,51,689
+154,facebook,page_A,2025-08-06,2025-08-13,link,Sample social media caption with details with details with details with details with details ,54,559
+155,instagram,page_C,2025-02-27,2025-03-05,video,Sample social media caption with details with details with details with details with details with details with details ,70,947
+156,facebook,page_A,2025-03-26,2025-04-04,text,Sample social media caption with details with details with details with details with details ,42,486
+157,instagram,page_C,2025-11-06,2025-11-14,image,Sample social media caption with details with details with details with details ,49,451
+158,facebook,page_C,2025-11-15,2025-11-21,link,Sample social media caption with details with details with details with details with details with details ,32,515
+159,facebook,page_D,2025-11-03,2025-11-11,video,Sample social media caption with details with details with details with details with details with details with details with details ,47,715
+160,facebook,page_B,2025-04-03,2025-04-05,video,Sample social media caption with details with details with details ,13,390
+161,instagram,page_A,2025-08-15,2025-08-23,text,Sample social media caption with details with details with details with details with details with details with details with details ,29,573
+162,linkedin,page_C,2025-08-11,2025-08-14,video,Sample social media caption with details with details ,5,411
+163,instagram,page_A,2025-03-09,2025-03-16,link,Sample social media caption with details with details with details with details ,58,592
+164,instagram,page_A,2025-07-22,2025-07-31,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,76,615
+165,facebook,page_D,2025-07-11,2025-07-16,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,60,486
+166,instagram,page_D,2025-05-25,2025-05-26,image,Sample social media caption with details with details with details with details with details with details with details with details with details ,47,893
+167,linkedin,page_C,2025-10-02,2025-10-06,image,Sample social media caption with details with details with details ,43,407
+168,linkedin,page_D,2025-09-05,2025-09-09,video,Sample social media caption with details with details with details with details with details with details with details with details ,31,128
+169,instagram,page_A,2025-07-14,2025-07-23,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,39,580
+170,linkedin,page_A,2025-09-22,2025-10-01,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,22,256
+171,instagram,page_B,2025-10-06,2025-10-12,text,Sample social media caption ,0,229
+172,facebook,page_A,2025-07-26,2025-08-04,text,Sample social media caption with details with details with details with details with details with details with details ,38,426
+173,instagram,page_D,2025-04-08,2025-04-12,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,63,999
+174,linkedin,page_A,2025-10-04,2025-10-08,image,Sample social media caption with details with details with details with details with details with details with details ,19,208
+175,instagram,page_C,2025-09-19,2025-09-27,image,Sample social media caption with details with details ,27,636
+176,instagram,page_D,2025-12-25,2026-01-01,video,Sample social media caption with details with details with details with details with details with details with details ,63,698
+177,instagram,page_C,2025-02-24,2025-03-01,video,Sample social media caption with details ,64,613
+178,linkedin,page_A,2025-06-03,2025-06-08,image,Sample social media caption with details with details with details with details ,25,466
+179,linkedin,page_B,2025-12-04,2025-12-11,video,Sample social media caption with details with details with details with details with details with details ,12,369
+180,facebook,page_C,2025-07-07,2025-07-14,image,Sample social media caption with details with details with details with details ,10,540
+181,linkedin,page_D,2025-12-11,2025-12-16,text,Sample social media caption with details with details with details with details with details with details with details ,0,1
+182,linkedin,page_B,2025-01-05,2025-01-06,link,Sample social media caption with details with details ,20,370
+183,facebook,page_B,2025-01-13,2025-01-14,text,Sample social media caption with details with details with details with details with details with details ,13,463
+184,instagram,page_D,2025-10-18,2025-10-20,video,Sample social media caption with details with details with details with details with details with details ,67,765
+185,facebook,page_D,2025-05-11,2025-05-16,video,Sample social media caption with details with details with details with details with details with details ,49,704
+186,facebook,page_B,2025-07-09,2025-07-15,video,Sample social media caption with details with details with details ,16,406
+187,instagram,page_A,2025-06-06,2025-06-14,image,Sample social media caption with details with details with details ,51,750
+188,instagram,page_C,2025-05-29,2025-06-01,text,Sample social media caption with details with details ,51,441
+189,facebook,page_D,2025-12-09,2025-12-17,text,Sample social media caption with details with details with details with details ,36,341
+190,instagram,page_D,2025-02-04,2025-02-10,image,Sample social media caption with details with details with details with details with details ,45,598
+191,linkedin,page_B,2025-10-09,2025-10-10,video,Sample social media caption with details with details with details ,34,319
+192,instagram,page_A,2025-11-21,2025-11-25,video,Sample social media caption with details with details with details with details ,48,830
+193,instagram,page_C,2025-08-28,2025-08-31,image,Sample social media caption with details with details with details ,51,636
+194,linkedin,page_D,2025-05-25,2025-06-02,text,Sample social media caption with details with details ,18,202
+195,instagram,page_D,2025-02-28,2025-03-09,text,Sample social media caption with details with details with details with details with details with details ,36,548
+196,instagram,page_A,2025-09-07,2025-09-15,text,Sample social media caption with details with details with details with details with details with details with details with details ,57,639
+197,facebook,page_B,2025-06-21,2025-06-26,text,Sample social media caption with details with details with details ,11,286
+198,linkedin,page_B,2025-02-24,2025-03-01,link,Sample social media caption with details with details with details with details with details with details with details with details ,49,522
+199,instagram,page_A,2025-05-12,2025-05-15,link,Sample social media caption with details with details with details with details with details ,37,366
+200,instagram,page_D,2025-12-17,2025-12-24,text,Sample social media caption with details ,5,616
+201,facebook,page_A,2025-04-07,2025-04-08,link,Sample social media caption with details with details with details ,60,533
+202,linkedin,page_C,2025-03-07,2025-03-10,video,Sample social media caption ,0,224
+203,facebook,page_D,2025-09-06,2025-09-08,link,Sample social media caption ,37,580
+204,instagram,page_C,2025-03-14,2025-03-19,link,Sample social media caption with details with details with details ,66,633
+205,instagram,page_D,2025-12-02,2025-12-05,text,Sample social media caption with details with details with details with details ,45,631
+206,instagram,page_B,2025-11-10,2025-11-12,link,Sample social media caption with details with details with details with details with details with details with details with details ,25,597
+207,instagram,page_D,2025-12-25,2025-12-29,text,Sample social media caption with details ,18,432
+208,facebook,page_B,2025-11-30,2025-12-08,text,Sample social media caption with details with details with details with details with details with details with details with details ,47,406
+209,instagram,page_A,2025-03-30,2025-04-05,video,Sample social media caption with details with details ,32,763
+210,facebook,page_B,2025-03-19,2025-03-27,link,Sample social media caption with details ,56,498
+211,facebook,page_B,2025-05-06,2025-05-15,text,Sample social media caption with details with details with details with details with details with details with details ,33,428
+212,facebook,page_C,2025-06-21,2025-06-30,link,Sample social media caption with details with details with details with details with details with details with details ,8,331
+213,instagram,page_B,2025-11-18,2025-11-22,video,Sample social media caption with details with details with details with details with details with details ,61,879
+214,linkedin,page_B,2025-09-25,2025-10-03,link,Sample social media caption with details ,3,236
+215,facebook,page_B,2025-08-24,2025-09-02,image,Sample social media caption with details ,53,504
+216,facebook,page_B,2025-11-17,2025-11-26,image,Sample social media caption with details with details with details with details ,56,563
+217,instagram,page_C,2025-08-24,2025-08-28,text,Sample social media caption with details with details with details with details ,12,481
+218,instagram,page_B,2025-05-19,2025-05-22,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,33,497
+219,linkedin,page_D,2025-05-31,2025-06-06,link,Sample social media caption with details with details with details ,0,51
+220,instagram,page_B,2025-07-08,2025-07-17,video,Sample social media caption with details with details ,60,512
+221,instagram,page_D,2025-02-02,2025-02-11,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,29,628
+222,instagram,page_B,2025-09-28,2025-10-04,text,Sample social media caption with details ,60,452
+223,facebook,page_A,2025-08-27,2025-08-29,link,Sample social media caption ,20,257
+224,linkedin,page_A,2025-09-24,2025-09-28,text,Sample social media caption with details with details with details with details ,0,1
+225,instagram,page_D,2025-07-14,2025-07-21,video,Sample social media caption with details with details with details with details ,37,595
+226,linkedin,page_D,2025-10-13,2025-10-19,link,Sample social media caption with details with details with details with details with details with details ,15,347
+227,instagram,page_A,2025-12-13,2025-12-17,image,Sample social media caption with details with details with details with details with details with details with details with details ,31,628
+228,facebook,page_C,2025-07-28,2025-08-01,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,42,511
+229,facebook,page_C,2025-06-12,2025-06-13,image,Sample social media caption with details with details with details ,4,288
+230,instagram,page_A,2025-02-08,2025-02-11,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,48,1019
+231,instagram,page_B,2025-10-12,2025-10-19,link,Sample social media caption with details with details with details with details with details with details ,38,548
+232,instagram,page_C,2025-11-26,2025-11-29,text,Sample social media caption with details ,11,482
+233,linkedin,page_D,2025-09-13,2025-09-22,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,32,548
+234,facebook,page_D,2025-11-12,2025-11-13,text,Sample social media caption with details ,25,491
+235,linkedin,page_A,2025-11-11,2025-11-17,text,Sample social media caption with details with details with details with details with details with details ,0,151
+236,linkedin,page_A,2025-10-19,2025-10-24,video,Sample social media caption with details with details with details with details with details with details with details ,61,392
+237,instagram,page_B,2025-07-03,2025-07-11,image,Sample social media caption with details with details ,45,560
+238,facebook,page_A,2025-02-06,2025-02-14,image,Sample social media caption with details with details ,44,513
+239,instagram,page_C,2025-01-02,2025-01-07,video,Sample social media caption with details with details with details with details ,33,746
+240,instagram,page_A,2025-03-16,2025-03-22,image,Sample social media caption with details with details with details with details with details with details with details with details ,43,662
+241,linkedin,page_A,2025-06-07,2025-06-14,text,Sample social media caption with details with details ,27,300
+242,facebook,page_A,2025-09-29,2025-10-04,link,Sample social media caption with details with details with details with details with details with details ,17,407
+243,instagram,page_B,2025-06-16,2025-06-18,link,Sample social media caption with details with details with details with details ,78,810
+244,facebook,page_D,2025-01-09,2025-01-13,video,Sample social media caption with details ,26,556
+245,facebook,page_A,2025-03-18,2025-03-21,link,Sample social media caption with details with details with details with details with details with details with details ,47,643
+246,linkedin,page_D,2025-12-24,2025-12-29,link,Sample social media caption with details with details with details with details with details with details with details with details ,14,293
+247,facebook,page_B,2025-12-27,2026-01-02,link,Sample social media caption with details with details with details with details with details ,44,521
+248,instagram,page_A,2025-05-18,2025-05-20,video,Sample social media caption with details with details ,39,619
+249,instagram,page_B,2025-10-21,2025-10-24,video,Sample social media caption with details ,43,600
+250,instagram,page_C,2025-09-20,2025-09-28,link,Sample social media caption with details with details with details with details ,43,584
+251,facebook,page_A,2025-12-06,2025-12-10,image,Sample social media caption with details with details with details with details with details ,37,612
+252,linkedin,page_A,2025-11-20,2025-11-22,video,Sample social media caption with details with details with details with details with details ,41,426
+253,instagram,page_D,2025-08-18,2025-08-25,image,Sample social media caption with details with details ,39,443
+254,instagram,page_C,2025-05-25,2025-06-01,link,Sample social media caption with details with details with details with details with details ,28,379
+255,instagram,page_B,2025-08-17,2025-08-25,text,Sample social media caption with details with details with details ,18,315
+256,facebook,page_D,2025-04-27,2025-05-04,image,Sample social media caption with details with details with details with details with details with details ,36,312
+257,linkedin,page_D,2025-05-08,2025-05-17,image,Sample social media caption with details with details with details with details with details with details with details with details ,25,357
+258,instagram,page_B,2025-08-11,2025-08-17,text,Sample social media caption with details with details with details with details with details with details ,50,684
+259,instagram,page_C,2025-07-28,2025-07-31,text,Sample social media caption ,36,434
+260,facebook,page_A,2025-08-01,2025-08-09,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,41,206
+261,instagram,page_B,2025-05-21,2025-05-24,video,Sample social media caption ,32,656
+262,linkedin,page_C,2025-05-30,2025-06-02,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,32,259
+263,instagram,page_A,2025-01-04,2025-01-12,video,Sample social media caption ,46,932
+264,instagram,page_D,2025-08-08,2025-08-16,link,Sample social media caption with details with details with details with details with details ,32,370
+265,linkedin,page_D,2025-07-30,2025-08-03,image,Sample social media caption with details ,37,177
+266,instagram,page_B,2025-12-08,2025-12-15,image,Sample social media caption with details ,69,776
+267,instagram,page_B,2025-07-04,2025-07-13,image,Sample social media caption with details with details with details with details with details with details ,60,728
+268,instagram,page_A,2025-06-20,2025-06-28,video,Sample social media caption with details with details with details with details with details with details with details ,61,870
+269,instagram,page_C,2025-01-25,2025-01-26,link,Sample social media caption with details ,39,490
+270,instagram,page_A,2025-03-13,2025-03-19,image,Sample social media caption with details with details with details with details with details with details with details with details with details ,57,765
+271,instagram,page_B,2025-05-04,2025-05-06,video,Sample social media caption with details with details with details ,54,824
+272,instagram,page_C,2025-05-18,2025-05-26,image,Sample social media caption with details with details with details ,36,514
+273,instagram,page_C,2025-05-13,2025-05-14,link,Sample social media caption with details with details with details ,51,612
+274,facebook,page_C,2025-05-24,2025-06-02,text,Sample social media caption with details with details with details with details ,4,201
+275,facebook,page_A,2025-10-08,2025-10-10,link,Sample social media caption with details with details ,17,376
+276,instagram,page_D,2025-02-17,2025-02-21,text,Sample social media caption with details with details with details with details ,22,531
+277,instagram,page_C,2025-05-02,2025-05-05,text,Sample social media caption with details with details ,37,398
+278,facebook,page_D,2025-03-01,2025-03-09,link,Sample social media caption ,33,311
+279,linkedin,page_B,2025-04-23,2025-04-27,image,Sample social media caption with details with details with details ,18,194
+280,linkedin,page_D,2025-09-07,2025-09-14,link,Sample social media caption with details with details with details with details with details with details ,21,93
+281,instagram,page_B,2025-01-18,2025-01-19,text,Sample social media caption with details with details with details with details with details with details with details ,43,526
+282,instagram,page_D,2025-05-04,2025-05-09,text,Sample social media caption with details with details with details ,35,364
+283,instagram,page_A,2025-01-09,2025-01-18,video,Sample social media caption with details with details with details ,66,770
+284,instagram,page_A,2025-12-15,2025-12-24,link,Sample social media caption with details with details with details with details with details with details with details ,34,454
+285,facebook,page_C,2025-09-23,2025-09-25,video,Sample social media caption with details with details with details with details with details with details ,50,729
+286,instagram,page_C,2025-03-30,2025-04-03,image,Sample social media caption with details with details with details with details with details with details with details with details ,77,558
+287,instagram,page_C,2025-03-14,2025-03-18,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,36,545
+288,instagram,page_B,2025-02-06,2025-02-12,image,Sample social media caption with details with details with details with details with details with details with details with details ,39,623
+289,facebook,page_D,2025-06-22,2025-06-27,image,Sample social media caption with details with details with details with details with details with details with details with details with details ,64,727
+290,instagram,page_B,2025-10-03,2025-10-04,text,Sample social media caption with details with details with details with details ,47,547
+291,linkedin,page_C,2025-08-02,2025-08-09,image,Sample social media caption with details with details with details with details ,0,248
+292,instagram,page_D,2025-11-18,2025-11-21,link,Sample social media caption with details with details with details ,62,571
+293,linkedin,page_C,2025-05-06,2025-05-09,video,Sample social media caption with details with details ,7,113
+294,instagram,page_C,2025-04-12,2025-04-20,image,Sample social media caption with details with details with details with details with details with details with details ,37,681
+295,linkedin,page_D,2025-06-24,2025-07-01,link,Sample social media caption with details with details with details with details with details with details with details ,55,469
+296,linkedin,page_D,2025-03-15,2025-03-19,text,Sample social media caption with details with details with details with details with details with details with details with details ,28,241
+297,linkedin,page_B,2025-12-23,2026-01-01,video,Sample social media caption with details ,9,362
+298,linkedin,page_B,2025-03-09,2025-03-13,text,Sample social media caption with details with details with details with details with details ,45,236
+299,facebook,page_A,2025-06-24,2025-06-30,text,Sample social media caption with details with details ,44,431
+300,facebook,page_C,2025-07-10,2025-07-13,image,Sample social media caption with details with details with details with details with details with details with details with details ,25,321
+301,facebook,page_D,2025-01-21,2025-01-23,link,Sample social media caption with details with details ,35,150
+302,instagram,page_B,2025-06-20,2025-06-25,video,Sample social media caption with details ,60,725
+303,facebook,page_B,2025-06-15,2025-06-21,text,Sample social media caption with details with details with details with details with details ,23,299
+304,facebook,page_A,2025-04-05,2025-04-13,link,Sample social media caption with details with details with details with details with details with details with details with details ,39,615
+305,linkedin,page_B,2025-02-16,2025-02-20,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,25,207
+306,instagram,page_A,2025-01-17,2025-01-26,text,Sample social media caption with details ,24,220
+307,instagram,page_D,2025-01-04,2025-01-10,video,Sample social media caption with details with details with details ,46,580
+308,facebook,page_C,2025-06-25,2025-06-26,image,Sample social media caption with details ,0,102
+309,instagram,page_A,2025-02-02,2025-02-09,video,Sample social media caption with details with details with details ,58,701
+310,instagram,page_A,2025-12-17,2025-12-23,link,Sample social media caption with details with details with details with details with details ,40,525
+311,instagram,page_D,2025-03-31,2025-04-04,text,Sample social media caption with details with details with details ,14,433
+312,instagram,page_D,2025-08-27,2025-09-01,video,Sample social media caption ,43,816
+313,instagram,page_D,2025-09-03,2025-09-06,link,Sample social media caption with details with details with details with details with details ,63,688
+314,instagram,page_A,2025-06-30,2025-07-06,link,Sample social media caption ,0,444
+315,instagram,page_A,2025-11-19,2025-11-25,link,Sample social media caption with details with details ,22,238
+316,instagram,page_A,2025-02-10,2025-02-15,video,Sample social media caption ,52,750
+317,instagram,page_D,2025-03-27,2025-03-30,text,Sample social media caption with details ,60,517
+318,facebook,page_D,2025-04-03,2025-04-07,text,Sample social media caption with details with details with details with details ,24,398
+319,instagram,page_D,2025-02-19,2025-02-24,video,Sample social media caption with details with details with details with details with details with details with details with details ,85,941
+320,linkedin,page_A,2025-04-18,2025-04-23,video,Sample social media caption with details with details with details with details with details with details with details ,19,320
+321,linkedin,page_A,2025-04-25,2025-04-28,image,Sample social media caption with details ,38,463
+322,instagram,page_D,2025-10-07,2025-10-13,video,Sample social media caption ,56,566
+323,instagram,page_D,2025-04-21,2025-04-24,text,Sample social media caption with details with details with details ,39,584
+324,facebook,page_C,2025-11-16,2025-11-21,link,Sample social media caption with details with details with details with details with details with details ,32,216
+325,linkedin,page_A,2025-10-10,2025-10-12,link,Sample social media caption with details with details with details with details with details with details with details ,0,123
+326,facebook,page_A,2025-11-26,2025-12-01,image,Sample social media caption with details with details with details with details with details with details with details with details ,62,730
+327,linkedin,page_A,2025-02-08,2025-02-16,text,Sample social media caption with details with details with details ,22,114
+328,facebook,page_C,2025-12-26,2026-01-03,image,Sample social media caption with details ,52,535
+329,facebook,page_D,2025-08-13,2025-08-20,text,Sample social media caption ,54,318
+330,instagram,page_C,2025-12-25,2026-01-01,video,Sample social media caption with details ,43,688
+331,facebook,page_B,2025-05-10,2025-05-11,video,Sample social media caption ,35,700
+332,instagram,page_D,2025-12-14,2025-12-18,text,Sample social media caption with details with details with details with details with details with details with details with details ,29,557
+333,facebook,page_A,2025-08-03,2025-08-09,video,Sample social media caption with details with details ,38,358
+334,linkedin,page_D,2025-01-27,2025-02-04,link,Sample social media caption with details with details with details with details with details with details with details with details ,19,152
+335,instagram,page_D,2025-05-30,2025-06-05,text,Sample social media caption with details with details with details with details with details ,49,598
+336,facebook,page_C,2025-02-20,2025-02-28,link,Sample social media caption with details with details with details with details with details ,18,447
+337,instagram,page_D,2025-12-10,2025-12-13,text,Sample social media caption with details with details with details with details ,37,326
+338,facebook,page_C,2025-04-22,2025-04-24,video,Sample social media caption with details with details with details with details with details with details with details with details ,28,581
+339,instagram,page_B,2025-03-23,2025-03-24,link,Sample social media caption ,48,393
+340,linkedin,page_B,2025-07-21,2025-07-27,video,Sample social media caption with details ,66,297
+341,instagram,page_D,2025-06-05,2025-06-11,text,Sample social media caption with details with details with details with details ,33,344
+342,linkedin,page_C,2025-02-05,2025-02-08,image,Sample social media caption with details with details with details with details ,24,198
+343,linkedin,page_A,2025-10-26,2025-11-03,image,Sample social media caption with details with details with details with details with details ,9,213
+344,facebook,page_D,2025-11-05,2025-11-12,text,Sample social media caption with details with details with details with details with details with details with details ,13,506
+345,facebook,page_A,2025-09-29,2025-10-03,image,Sample social media caption with details with details with details with details with details with details ,39,605
+346,facebook,page_C,2025-08-14,2025-08-17,link,Sample social media caption with details with details ,10,332
+347,linkedin,page_A,2025-05-27,2025-06-03,link,Sample social media caption with details with details with details ,0,115
+348,instagram,page_C,2025-07-17,2025-07-24,text,Sample social media caption with details with details with details with details with details with details with details ,72,583
+349,facebook,page_B,2025-07-10,2025-07-12,text,Sample social media caption with details with details ,21,222
+350,instagram,page_B,2025-03-02,2025-03-05,text,Sample social media caption with details with details with details with details with details ,36,385
+351,facebook,page_C,2025-01-30,2025-02-04,image,Sample social media caption with details with details with details with details with details ,26,386
+352,instagram,page_D,2025-04-03,2025-04-08,video,Sample social media caption with details with details with details with details with details with details with details ,55,730
+353,facebook,page_B,2025-06-15,2025-06-17,video,Sample social media caption with details with details with details with details with details with details with details ,55,510
+354,facebook,page_D,2025-02-28,2025-03-09,link,Sample social media caption with details with details with details with details ,31,405
+355,instagram,page_B,2025-02-08,2025-02-12,image,Sample social media caption with details with details with details ,63,696
+356,facebook,page_A,2025-11-07,2025-11-11,video,Sample social media caption with details with details with details ,28,399
+357,facebook,page_A,2025-05-17,2025-05-18,video,Sample social media caption with details with details with details with details ,42,600
+358,facebook,page_A,2025-08-02,2025-08-10,image,Sample social media caption with details with details ,12,417
+359,instagram,page_C,2025-07-11,2025-07-14,image,Sample social media caption with details with details with details with details with details with details ,26,705
+360,facebook,page_C,2025-09-26,2025-10-05,video,Sample social media caption with details with details ,40,560
+361,linkedin,page_B,2025-09-28,2025-10-03,image,Sample social media caption with details with details with details with details with details with details ,12,144
+362,instagram,page_B,2025-04-19,2025-04-27,image,Sample social media caption with details with details with details with details with details with details with details ,23,534
+363,instagram,page_D,2025-11-06,2025-11-08,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,67,846
+364,instagram,page_C,2025-05-16,2025-05-18,image,Sample social media caption with details ,56,699
+365,facebook,page_A,2025-11-01,2025-11-09,text,Sample social media caption with details with details with details with details with details with details with details ,0,152
+366,instagram,page_A,2025-05-28,2025-06-05,image,Sample social media caption with details ,35,611
+367,facebook,page_B,2025-02-10,2025-02-15,video,Sample social media caption with details with details with details ,64,726
+368,facebook,page_B,2025-10-05,2025-10-06,video,Sample social media caption with details with details ,48,538
+369,instagram,page_D,2025-01-12,2025-01-21,link,Sample social media caption with details ,26,550
+370,linkedin,page_C,2025-10-09,2025-10-13,text,Sample social media caption with details with details ,4,31
+371,facebook,page_D,2025-01-16,2025-01-25,link,Sample social media caption ,39,298
+372,instagram,page_C,2025-03-17,2025-03-25,video,Sample social media caption with details with details with details with details with details with details with details with details ,61,624
+373,instagram,page_B,2025-08-09,2025-08-17,video,Sample social media caption ,30,404
+374,instagram,page_C,2025-12-10,2025-12-17,video,Sample social media caption with details with details with details with details ,61,858
+375,instagram,page_C,2025-05-30,2025-06-06,link,Sample social media caption with details with details with details with details with details with details with details ,27,459
+376,instagram,page_C,2025-02-14,2025-02-19,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,52,573
+377,linkedin,page_A,2025-03-27,2025-03-28,link,Sample social media caption with details with details with details with details with details with details with details with details ,9,87
+378,instagram,page_C,2025-11-24,2025-11-28,link,Sample social media caption with details ,34,310
+379,instagram,page_B,2025-09-23,2025-09-30,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,48,586
+380,facebook,page_D,2025-02-06,2025-02-14,text,Sample social media caption with details with details with details with details with details with details ,37,311
+381,facebook,page_D,2025-05-21,2025-05-27,link,Sample social media caption with details with details ,31,382
+382,linkedin,page_C,2025-04-07,2025-04-14,video,Sample social media caption with details with details with details with details ,48,458
+383,facebook,page_D,2025-03-06,2025-03-07,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,70,724
+384,instagram,page_C,2025-11-05,2025-11-10,link,Sample social media caption with details with details with details with details ,32,552
+385,instagram,page_A,2025-08-14,2025-08-19,video,Sample social media caption with details with details ,44,897
+386,linkedin,page_C,2025-03-07,2025-03-16,image,Sample social media caption with details with details with details with details with details with details with details with details ,41,229
+387,facebook,page_D,2025-08-26,2025-08-29,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,39,445
+388,linkedin,page_A,2025-05-31,2025-06-03,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,24,631
+389,instagram,page_A,2025-01-23,2025-01-27,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,51,773
+390,linkedin,page_B,2025-06-14,2025-06-16,link,Sample social media caption with details with details with details with details with details with details with details with details ,18,87
+391,facebook,page_D,2025-03-09,2025-03-15,video,Sample social media caption with details with details with details with details ,41,567
+392,instagram,page_C,2025-03-31,2025-04-06,text,Sample social media caption with details with details ,42,631
+393,facebook,page_D,2025-11-17,2025-11-25,link,Sample social media caption with details with details with details with details with details with details ,58,473
+394,facebook,page_D,2025-09-17,2025-09-26,text,Sample social media caption with details with details ,12,347
+395,instagram,page_C,2025-02-18,2025-02-19,image,Sample social media caption with details with details with details with details ,36,612
+396,instagram,page_C,2025-11-07,2025-11-10,text,Sample social media caption with details with details with details with details with details with details ,43,503
+397,linkedin,page_B,2025-07-29,2025-08-01,text,Sample social media caption with details with details with details with details with details with details with details with details with details ,28,284
+398,instagram,page_A,2025-11-16,2025-11-19,text,Sample social media caption with details with details with details ,43,455
+399,instagram,page_B,2025-09-30,2025-10-08,image,Sample social media caption with details with details ,61,594
+400,instagram,page_C,2025-05-04,2025-05-06,video,Sample social media caption with details with details with details with details with details with details with details ,68,813
+401,instagram,page_A,2025-07-15,2025-07-16,link,Sample social media caption ,37,375
+402,linkedin,page_A,2025-07-13,2025-07-21,image,Sample social media caption with details with details with details with details with details ,25,368
+403,facebook,page_A,2025-09-20,2025-09-29,video,Sample social media caption with details with details with details with details with details with details with details ,81,1005
+404,instagram,page_C,2025-04-01,2025-04-04,video,Sample social media caption with details with details with details with details with details ,46,558
+405,linkedin,page_D,2025-05-02,2025-05-05,image,Sample social media caption with details with details with details with details ,28,311
+406,linkedin,page_D,2025-03-31,2025-04-05,image,Sample social media caption with details with details with details with details with details with details with details with details ,32,258
+407,instagram,page_B,2025-04-19,2025-04-24,video,Sample social media caption with details with details with details ,73,809
+408,linkedin,page_C,2025-02-28,2025-03-09,link,Sample social media caption with details with details with details with details with details with details with details ,19,235
+409,instagram,page_D,2025-01-14,2025-01-18,image,Sample social media caption with details with details with details with details ,46,727
+410,linkedin,page_C,2025-12-10,2025-12-11,video,Sample social media caption ,38,471
+411,facebook,page_B,2025-01-28,2025-02-01,image,Sample social media caption with details with details with details with details with details ,41,520
+412,facebook,page_B,2025-11-21,2025-11-27,text,Sample social media caption ,37,430
+413,instagram,page_C,2025-01-02,2025-01-07,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,77,556
+414,linkedin,page_B,2025-10-11,2025-10-16,link,Sample social media caption with details with details with details with details with details with details ,24,401
+415,instagram,page_D,2025-04-30,2025-05-09,text,Sample social media caption with details with details with details ,49,545
+416,instagram,page_D,2025-07-08,2025-07-16,link,Sample social media caption with details with details with details with details with details ,69,669
+417,instagram,page_A,2025-04-14,2025-04-17,text,Sample social media caption with details with details with details with details with details with details ,33,397
+418,facebook,page_C,2025-06-29,2025-07-03,video,Sample social media caption with details with details ,72,471
+419,instagram,page_B,2025-06-14,2025-06-21,link,Sample social media caption with details with details with details ,36,523
+420,linkedin,page_C,2025-07-13,2025-07-17,video,Sample social media caption with details with details with details with details ,36,396
+421,facebook,page_B,2025-05-24,2025-05-28,link,Sample social media caption with details with details ,18,384
+422,instagram,page_B,2025-07-15,2025-07-17,link,Sample social media caption with details with details with details with details with details with details with details ,52,717
+423,instagram,page_B,2025-10-29,2025-11-01,text,Sample social media caption with details ,23,242
+424,instagram,page_A,2025-06-08,2025-06-15,text,Sample social media caption with details with details with details with details with details with details with details with details ,68,696
+425,facebook,page_D,2025-05-12,2025-05-20,video,Sample social media caption with details with details with details ,51,587
+426,linkedin,page_A,2025-02-18,2025-02-26,link,Sample social media caption with details with details with details with details with details ,33,178
+427,instagram,page_B,2025-05-12,2025-05-15,text,Sample social media caption with details ,21,286
+428,linkedin,page_A,2025-02-15,2025-02-17,link,Sample social media caption with details with details with details with details ,13,232
+429,instagram,page_A,2025-03-08,2025-03-10,video,Sample social media caption with details with details with details with details with details with details with details ,81,517
+430,linkedin,page_B,2025-12-14,2025-12-18,link,Sample social media caption with details with details ,24,230
+431,linkedin,page_D,2025-02-02,2025-02-07,video,Sample social media caption with details ,2,169
+432,facebook,page_D,2025-06-25,2025-07-04,image,Sample social media caption with details with details with details with details with details ,29,503
+433,facebook,page_B,2025-11-01,2025-11-10,image,Sample social media caption with details ,19,419
+434,linkedin,page_C,2025-12-14,2025-12-15,text,Sample social media caption with details with details with details ,36,280
+435,instagram,page_D,2025-02-23,2025-03-02,video,Sample social media caption with details with details with details with details ,53,732
+436,instagram,page_A,2025-03-01,2025-03-04,image,Sample social media caption with details with details with details with details with details ,47,570
+437,instagram,page_D,2025-05-16,2025-05-18,video,Sample social media caption with details with details with details with details with details with details ,57,726
+438,facebook,page_A,2025-07-22,2025-07-27,text,Sample social media caption with details with details with details with details with details with details ,55,556
+439,facebook,page_A,2025-12-17,2025-12-18,video,Sample social media caption with details with details with details with details with details with details with details with details ,46,736
+440,facebook,page_B,2025-03-17,2025-03-21,link,Sample social media caption ,5,271
+441,linkedin,page_A,2025-03-02,2025-03-07,link,Sample social media caption with details with details with details ,14,140
+442,instagram,page_D,2025-04-03,2025-04-06,text,Sample social media caption ,28,247
+443,facebook,page_D,2025-11-16,2025-11-22,link,Sample social media caption ,33,353
+444,instagram,page_B,2025-01-11,2025-01-16,video,Sample social media caption with details with details ,27,501
+445,instagram,page_D,2025-05-19,2025-05-27,image,Sample social media caption with details with details with details with details with details with details ,70,750
+446,facebook,page_D,2025-02-13,2025-02-15,image,Sample social media caption with details with details with details with details with details with details with details with details ,34,576
+447,linkedin,page_D,2025-02-27,2025-02-28,link,Sample social media caption with details with details with details with details with details with details with details ,34,526
+448,facebook,page_D,2025-12-01,2025-12-06,link,Sample social media caption with details with details with details with details with details with details ,8,286
+449,instagram,page_C,2025-01-01,2025-01-04,text,Sample social media caption with details with details with details with details with details with details with details ,64,558
+450,facebook,page_A,2025-04-28,2025-05-05,image,Sample social media caption with details ,61,651
+451,instagram,page_D,2025-12-01,2025-12-02,video,Sample social media caption with details with details with details with details with details with details with details with details ,86,964
+452,linkedin,page_C,2025-08-10,2025-08-16,image,Sample social media caption with details with details with details with details with details with details with details with details ,40,277
+453,facebook,page_D,2025-01-27,2025-02-05,image,Sample social media caption with details ,78,449
+454,instagram,page_D,2025-06-19,2025-06-20,image,Sample social media caption with details with details with details with details ,25,637
+455,instagram,page_A,2025-12-21,2025-12-24,text,Sample social media caption with details with details with details with details with details with details with details with details ,37,613
+456,instagram,page_B,2025-05-27,2025-06-04,image,Sample social media caption with details with details with details with details ,35,554
+457,linkedin,page_A,2025-07-12,2025-07-17,link,Sample social media caption with details with details with details with details with details with details with details with details ,6,241
+458,instagram,page_A,2025-07-14,2025-07-16,video,Sample social media caption with details with details with details with details with details with details with details with details with details ,35,646
+459,facebook,page_D,2025-08-30,2025-09-01,video,Sample social media caption with details with details with details with details ,45,624
+460,facebook,page_D,2025-03-10,2025-03-17,text,Sample social media caption ,9,350
+461,facebook,page_D,2025-11-03,2025-11-11,link,Sample social media caption with details with details with details ,31,337
+462,instagram,page_D,2025-12-27,2025-12-31,video,Sample social media caption with details with details ,42,519
+463,linkedin,page_C,2025-02-22,2025-02-27,image,Sample social media caption with details with details with details with details ,39,406
+464,instagram,page_C,2025-10-26,2025-11-03,image,Sample social media caption with details with details with details with details with details ,63,701
+465,facebook,page_D,2025-10-26,2025-10-28,link,Sample social media caption with details with details with details with details ,32,299
+466,facebook,page_C,2025-09-28,2025-09-30,image,Sample social media caption with details with details ,26,405
+467,facebook,page_C,2025-05-16,2025-05-23,text,Sample social media caption with details with details with details ,44,158
+468,linkedin,page_A,2025-06-21,2025-06-23,video,Sample social media caption with details with details with details with details with details with details ,29,321
+469,instagram,page_C,2025-11-03,2025-11-10,link,Sample social media caption ,3,395
+470,facebook,page_D,2025-02-25,2025-03-02,image,Sample social media caption with details with details ,32,590
+471,instagram,page_C,2025-10-30,2025-11-08,link,Sample social media caption with details with details with details with details with details with details with details with details ,16,534
+472,instagram,page_B,2025-12-03,2025-12-04,text,Sample social media caption with details ,42,529
+473,instagram,page_A,2025-09-06,2025-09-15,video,Sample social media caption with details with details with details with details ,52,683
+474,instagram,page_A,2025-05-05,2025-05-08,image,Sample social media caption with details with details ,42,621
+475,instagram,page_C,2025-07-24,2025-07-25,link,Sample social media caption with details ,66,457
+476,instagram,page_C,2025-01-19,2025-01-26,video,Sample social media caption with details with details with details with details ,76,853
+477,instagram,page_D,2025-12-07,2025-12-12,video,Sample social media caption with details with details with details with details with details ,67,702
+478,facebook,page_D,2025-05-05,2025-05-13,video,Sample social media caption with details with details ,15,367
+479,facebook,page_B,2025-01-21,2025-01-22,image,Sample social media caption with details ,5,253
+480,instagram,page_D,2025-10-17,2025-10-18,video,Sample social media caption with details ,51,635
+481,instagram,page_C,2025-08-29,2025-09-04,image,Sample social media caption with details with details with details with details with details with details ,44,518
+482,instagram,page_B,2025-08-16,2025-08-24,image,Sample social media caption with details with details with details with details with details with details with details with details ,32,754
+483,facebook,page_D,2025-01-20,2025-01-24,video,Sample social media caption with details with details ,37,501
+484,instagram,page_A,2025-10-02,2025-10-10,image,Sample social media caption with details with details with details ,71,896
+485,instagram,page_C,2025-08-21,2025-08-30,video,Sample social media caption with details with details with details ,38,526
+486,instagram,page_D,2025-10-17,2025-10-25,link,Sample social media caption with details with details with details ,31,542
+487,instagram,page_C,2025-10-29,2025-11-03,image,Sample social media caption with details with details ,28,462
+488,instagram,page_D,2025-03-19,2025-03-26,image,Sample social media caption ,37,506
+489,facebook,page_A,2025-03-18,2025-03-23,image,Sample social media caption with details with details with details with details with details ,42,514
+490,facebook,page_C,2025-12-04,2025-12-11,text,Sample social media caption with details with details with details ,14,68
+491,facebook,page_D,2025-07-13,2025-07-19,video,Sample social media caption with details with details with details ,65,613
+492,facebook,page_C,2025-06-09,2025-06-14,video,Sample social media caption with details with details ,59,799
+493,facebook,page_D,2025-04-15,2025-04-19,image,Sample social media caption with details with details with details with details with details with details with details with details with details ,34,512
+494,instagram,page_B,2025-08-22,2025-08-28,video,Sample social media caption with details with details with details with details with details with details ,71,813
+495,facebook,page_C,2025-10-03,2025-10-10,video,Sample social media caption with details with details with details with details ,66,721
+496,facebook,page_B,2025-01-01,2025-01-10,video,Sample social media caption with details with details ,36,541
+497,instagram,page_D,2025-07-21,2025-07-27,text,Sample social media caption with details with details with details with details with details with details with details with details ,52,505
+498,facebook,page_A,2025-12-29,2025-12-30,link,Sample social media caption with details with details with details with details with details with details with details with details ,29,187
+499,instagram,page_B,2025-04-13,2025-04-19,video,Sample social media caption ,80,758
+500,facebook,page_A,2025-04-13,2025-04-16,link,Sample social media caption with details with details with details with details with details with details with details with details with details ,62,453
